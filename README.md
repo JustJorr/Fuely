@@ -1,3 +1,5 @@
 # fuely
 
-A new Flutter project.
+This project currently has an error because i used a lot AI considering im still a begginer :)
+
+if anyone could help me solve the problem in here i'd be very grateful
